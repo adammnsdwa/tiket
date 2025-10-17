@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+.replit
+replit.nix
+config.json
+tickets/
