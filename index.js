@@ -96,7 +96,7 @@ async function handleCommand(interaction) {
       .setTitle('🎫 نظام التذاكر')
       .setDescription('**اختر نوع تذكرتك !**\n\nالسلام عليكم! نحن هنا لخدمتك ومساعدتك بإذن الله. اختر نوع التذكرة المناسب لاستفسارك.')
       .setThumbnail('https://i.imgur.com/YqXrLQN.png')
-      .setFooter({ text: 'Respect - نظام التذاكر' })
+      .setFooter({ text: 'MYS - نظام التذاكر' })
       .setTimestamp();
 
     const selectMenu = new StringSelectMenuBuilder()
